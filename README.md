@@ -52,6 +52,6 @@ After pressing number 2 on keyboard, you need to select first line for which car
 
 ### Try out with morphology and enyoy counting cars
 After selecting area of interest and lines as triggers to increment counters, you have done everything to start counting cars with image processing. Two windows will appear. The first one will contain video with cars beeing detected and car counters. The second one will contain sliders for morphological operations (erosion and dilation) which you can tweek in order to increase the performance of car detection.
-![logo](documentation/morphology.png)
 ![logo](documentation/count.png)
+![logo](documentation/morphology.png)
 **Press ESC on keyboard** in order to exit the program. Enyoy.
