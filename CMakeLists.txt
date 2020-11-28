@@ -6,4 +6,3 @@ add_executable( car_counter src/car_counter.cpp )
 target_link_libraries( car_counter ${OpenCV_LIBS} )
 # Copy static files
 file(COPY src/video_1.mov DESTINATION ${CMAKE_BINARY_DIR})
-file(COPY src/video_2.m4v DESTINATION ${CMAKE_BINARY_DIR})
